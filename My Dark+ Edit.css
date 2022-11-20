@@ -368,18 +368,6 @@
 .grid-1aWVsE {
   background-color: var(--darkplus-bg2);
 }
-
-.cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
-  background-color: var(--darkplus-bg2);
-  max-width: 650px;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin: 0;
-  padding: 8px;
-  border-radius: 15px;
-}
-
 .markup-eYLPri blockquote, .markup-eYLPri pre {
   max-width: 100%;
 }
