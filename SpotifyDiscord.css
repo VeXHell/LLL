@@ -26,9 +26,9 @@
   --menu-select-color: rgba(255,255,255,0.3);
   --menu-border-color: rgba(255,255,255,0.1);
   --menu-text-color: #b2b2b2;
-  --input-color: #333;
-  --input-text-color: #e0e0e0;
-  --input-placeholder-color: #adadad;
+  --input-color: #e0e0e0;
+  --input-text-color: #333;
+  --input-placeholder-color: #444;
   --input-radius: 22px;
   --select-input-color: #363636;
   --button-background: rgba(0,0,0,0.7);
@@ -1095,21 +1095,21 @@ body,
 }
 .channelTextArea-220_Gz .scrollableContainer-15eg7h {
   max-height: 45vh;
-  background-color: var(--input-color);
+  background-color: #333;
   border-radius: var(--input-radius);
   --scrollbar-thumb: rgba(0,0,0,0.5);
   --scrollbar-thumb-hover: rgba(0,0,0,0.6);
   --scrollbar-thumb-active: rgba(0,0,0,0.7);
 }
 .channelTextArea-220_Gz .scrollableContainer-15eg7h .textArea-2CLwUE {
-  color: var(--input-text-color);
+  color: #e0e0e0;
   font-weight: 500;
 }
 .channelTextArea-220_Gz .scrollableContainer-15eg7h .slateTextArea-27tjG0 {
-  caret-color: var(--input-text-color);
+  caret-color: #e0e0e0;
 }
 .channelTextArea-220_Gz .scrollableContainer-15eg7h .markup-eYLPri {
-  color: var(--input-text-color);
+  color: #e0e0e0;
   font-weight: 500;
 }
 
@@ -1126,31 +1126,31 @@ body,
 }
 .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h {
   max-height: 45vh;
-  background-color: var(--input-color);
+  background-color: #333;
   border-radius: 22px;
   --scrollbar-thumb: rgba(0,0,0,0.5);
   --scrollbar-thumb-hover: rgba(0,0,0,0.6);
   --scrollbar-thumb-active: rgba(0,0,0,0.7);
 }
 .form-3gdLxP .channelTextArea-1FufC0 .textArea-2CLwUE {
-  color: var(--input-text-color);
+  color: #e0e0e0;
 }
 .form-3gdLxP .channelTextArea-1FufC0 .textArea-2CLwUE .placeholder-1_mJY1 {
-  color: var(--input-placeholder-color);
+  color: #adadad;
   font-weight: 500;
 }
 .form-3gdLxP .channelTextArea-1FufC0 .textArea-2CLwUE .markup-eYLPri {
-  color: var(--input-text-color);
+  color: #e0e0e0;
   font-weight: 500;
 }
 .form-3gdLxP .channelTextArea-1FufC0 .textArea-2CLwUE .slateTextArea-27tjG0 {
-  caret-color: var(--input-text-color);
+  caret-color: #e0e0e0;
 }
 .form-3gdLxP .button-2fCJ0o,
 .form-3gdLxP .buttonWrapper-3YFQGJ:hover,
 .form-3gdLxP .InvisibleTyping-typingButton-invisibleTypingButton svg,
 .form-3gdLxP .InvisibleTyping-typingButton-invisibleTypingButton:hover:not(.InvisibleTyping-typingButton-disabled) svg {
-  color: var(--input-text-color);
+  color: #e0e0e0;
 }
 .form-3gdLxP .buttonWrapper-3YFQGJ:hover,
 .form-3gdLxP .InvisibleTyping-typingButton-invisibleTypingButton:hover:not(.InvisibleTyping-typingButton-disabled) svg {
@@ -1193,7 +1193,7 @@ body,
 .spamBanner-1auiob {
   margin: 6px 16px 20px;
   padding: 8px 12px;
-  background-color: var(--input-color);
+  background-color: #333;
   border-radius: 35px;
   z-index: 2;
 }
@@ -1222,7 +1222,7 @@ body,
 
 /* CHAT AREA -> TEXTBOX -> REPLY */
 .attachedBars-2BCP3l {
-  background-color: var(--input-color);
+  background-color: #333;
   border-radius: var(--input-radius) var(--input-radius) 0 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
@@ -1231,14 +1231,14 @@ body,
 }
 .attachedBars-2BCP3l .colorHeaderSecondary-g5teka,
 .attachedBars-2BCP3l .closeButton-3IEry2 {
-  color: var(--input-text-color);
+  color: #e0e0e0;
 }
 .attachedBars-2BCP3l + .scrollableContainer-15eg7h {
   border-radius: 0 0 22px 22px !important;
 }
 .attachedBars-2BCP3l .name-1DypRz,
 .attachedBars-2BCP3l .description-39ogHl {
-  color: var(--input-text-color);
+  color: #e0e0e0;
 }
 
 .colorLink-2apWfY {
@@ -1342,7 +1342,7 @@ body,
 }
 .container-3XgAHv .form-Ti9oXE .channelTextArea-3TZH74 .scrollableContainer-15eg7h {
   max-height: 45vh;
-  background-color: var(--input-color);
+  background-color: #333;
   border-radius: 22px;
   border: none;
   --scrollbar-thumb: rgba(0,0,0,0.5);
@@ -1350,14 +1350,14 @@ body,
   --scrollbar-thumb-active: rgba(0,0,0,0.7);
 }
 .container-3XgAHv .form-Ti9oXE .channelTextArea-3TZH74 .scrollableContainer-15eg7h .textArea-2CLwUE {
-  color: var(--input-text-color);
+  color: #e0e0e0;
   font-weight: 500;
 }
 .container-3XgAHv .form-Ti9oXE .channelTextArea-3TZH74 .scrollableContainer-15eg7h .slateTextArea-27tjG0 {
-  caret-color: var(--input-text-color);
+  caret-color: #e0e0e0;
 }
 .container-3XgAHv .form-Ti9oXE .channelTextArea-3TZH74 .scrollableContainer-15eg7h .markup-eYLPri {
-  color: var(--input-text-color);
+  color: #e0e0e0;
   font-weight: 500;
 }
 
@@ -1469,20 +1469,20 @@ body,
 }
 
 .channelTextArea-1VQBuV {
-  background-color: var(--input-color);
-  border-radius: var(--input-radius);
+  background-color: #333;
+  border-radius: #33;
 }
 .channelTextArea-1VQBuV .channelTextAreaInner-2_mflx {
   padding: 12px;
 }
 .channelTextArea-1VQBuV .markup-eYLPri {
-  color: var(--input-text-color);
+  color: #e0e0e0;
 }
 .channelTextArea-1VQBuV .placeholder-1rCBhr {
-  color: var(--input-placeholder-color);
+  color: #adadad;
 }
 .channelTextArea-1VQBuV .editor-H2NA06 {
-  caret-color: var(--input-text-color);
+  caret-color: #e0e0e0;
 }
 
 .container-3Om6RL {
@@ -3412,10 +3412,10 @@ body,
 .input-2g-os5 {
   height: 32px;
   padding: 0 12px;
-  background-color: var(--input-color);
+  background-color: #333;
   border-radius: var(--input-radius);
   border: none;
-  color: var(--input-text-color);
+  color: #e0e0e0
   font-weight: 500;
   font-size: 14px;
 }
@@ -3423,7 +3423,7 @@ body,
   padding: 0;
 }
 .input-2g-os5::-webkit-input-placeholder {
-  color: var(--input-placeholder-color);
+  color: #adadad
 }
 
 .emojiButtonContainer-gCE6AT + .inputWrapper-1YNMmM .input-2g-os5 {
@@ -3439,7 +3439,7 @@ textarea.input-2g-os5 {
   line-height: 16px;
 }
 textarea.input-2g-os5:focus {
-  background-color: var(--input-color);
+  background-color: #333;
 }
 textarea.input-2g-os5::-webkit-input-placeholder {
   line-height: 16px;
@@ -3448,15 +3448,15 @@ textarea.input-2g-os5::-webkit-input-placeholder {
 .copyInputDefault-3jiMHw {
   height: 32px;
   padding: 0 12px;
-  background-color: var(--input-color) !important;
+  background-color: #333 !important;
   border-radius: var(--input-radius);
   border: none;
-  color: var(--input-text-color) !important;
+  color: #e0e0e0 !important;
   font-weight: 500;
   font-size: 14px;
 }
 .copyInputDefault-3jiMHw .inputDefault-1AaKiD {
-  color: var(--input-text-color) !important;
+  color: #e0e0e0 !mportant;
 }
 .copyInputDefault-3jiMHw .button-f2h6uQ {
   height: 28px !important;
